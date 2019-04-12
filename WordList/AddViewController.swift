@@ -3,7 +3,7 @@
 //  WordList
 //
 //  Created by 山谷美咲生 on 2019/04/12.
-//  Copyright © 2019 山谷美咲生. All rights reserved.
+//  Copyright © 2019 山谷美咲生. All rights reserved.t
 //
 
 import UIKit
